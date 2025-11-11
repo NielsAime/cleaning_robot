@@ -1,0 +1,6 @@
+mobile-robotics-project/
+├─ Models/        % .slx
+├─ Scripts/       % .m (init_project.m, run_simulation.m, etc.)
+├─ Docs/          % markdown / images
+├─ Output/        % figures et résultats (à ignorer)
+└─ README.md
